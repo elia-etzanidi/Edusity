@@ -7,7 +7,7 @@ const Footer = () => {
         <p>© 2024 Edusity. All rights reserved.</p>
         <ul>
             <li>Terms of Services</li>
-            <li>Privace policy</li>
+            <li>Privacy policy</li>
         </ul>
     </div>
   )
